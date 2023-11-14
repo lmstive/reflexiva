@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Remedios</string>
+    <string name="title_sobre">Inicio</string>
+    <string name="title_remedio">Remédios</string>
+    <string name="title_notifications">Notificação</string>
+    <string name="place_holder_example">Exemplo</string>
+    <string name="Título">App Remédios</string>
+    <string name="texto">Lembrete de Medicamentos\n\n Gerenciar sua saúde nunca foi tão fácil com o nosso aplicativo de lembrete de medicamentos. Com a correria do dia a dia, é fácil esquecer de tomar seus remédios nos horários certos, mas agora você pode ter a tranquilidade de que nunca perderá uma dose novamente.</string>
+    <string name="Remedios">Seu app de lembrete de remédios</string>
+    <string name="atividades">Remédios Diarios</string>
+    <string name="delete">Delete</string>
+    <string name="Mais">+</string>
+    <string name="enter_todo_title">Digite o Remédio\n</string>
+    <string name="cadastro_pessoal">Cadastro Pessoal</string>
+    <string name="primeiro_nome">Digite seu Nome</string>
+    <string name="telefone">Digite seu Telefone</string>
+    <string name="aniversario">Digite seu Ano de Nascimento</string>
+    <string name="salvar">Salvar</string>
+    <string name="informacoes_pessoais">Informações Pessoais</string>
+
+
+</resources>
